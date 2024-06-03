@@ -1,2 +1,2 @@
 # first-repo
-this my first git repository
+This My First Git Repository Created By Omkar 
